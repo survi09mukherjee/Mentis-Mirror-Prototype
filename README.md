@@ -24,24 +24,24 @@ Mentis Mirror is an intelligent emotion-aware smart mirror, inspired by the wiza
 ## ⚙ Setup Instructions
 
 1. *Clone the repository*:
-   bash
+   ```bash
    git clone https://github.com/your-username/mentis-mirror.git
    cd mentis-mirror
 
 2. **Create and activate virtual environment**:
 
-    bash
+   ``` bash
     python -m venv deepface_env
     source deepface_env/bin/activate  # On Windows: deepface_env\Scripts\activate
 
 3. *Install dependencies*:
 
-    bash
+    ```bash
     pip install -r requirements.txt
 
 4. **Run the application:
 
-    bash
+   ``` bash
     streamlit run app.py
 
 ##  Key Functionalities
