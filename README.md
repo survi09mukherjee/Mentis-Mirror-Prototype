@@ -42,7 +42,7 @@ Mentis Mirror is an intelligent emotion-aware smart mirror, inspired by the wiza
 4. **Run the application:
 
    ``` bash
-    streamlit run app.py
+    streamlit run mentis_mirror_app.py
 
 ##  Key Functionalities
 
