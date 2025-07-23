@@ -6,7 +6,7 @@ Mentis Mirror is an intelligent emotion-aware smart mirror, inspired by the wiza
 
 - 🧠 *Emotion Detection* using DeepFace and OpenCV.  
 - 📊 *Sensor Data Logging* (temperature, sound, CO₂, TVOC).  
-- 🪄 *Harry Potter-Themed UI* with magical creatures and animations.  
+-  *Harry Potter-Themed UI* with magical creatures and animations.  
 - 🗃 *MySQL Integration* for logging and reviewing emotion-sensor data.  
 - 🧾 *Interactive Viewer Tab* to explore historical data entries.  
 
